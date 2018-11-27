@@ -1,0 +1,6 @@
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTraining\bin\Debug\EssentialTraining.dll
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTraining\bin\Debug\EssentialTraining.pdb
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTraining\obj\Debug\EssentialTraining.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTraining\obj\Debug\EssentialTraining.dll
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTraining\obj\Debug\EssentialTraining.pdb
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTraining\obj\Debug\EssentialTraining.csprojAssemblyReference.cache

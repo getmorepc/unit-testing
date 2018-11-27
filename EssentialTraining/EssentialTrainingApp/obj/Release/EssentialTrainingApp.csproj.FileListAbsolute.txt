@@ -1,0 +1,11 @@
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.config
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe.config
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.exe
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\bin\Release\EssentialTrainingApp.pdb
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.dll
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\bin\Release\NLog.xml
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csprojAssemblyReference.cache
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.csproj.CopyComplete
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.exe
+C:\Users\danie\Documents\GitHub\unit-testing\EssentialTraining\EssentialTrainingApp\obj\Release\EssentialTrainingApp.pdb
